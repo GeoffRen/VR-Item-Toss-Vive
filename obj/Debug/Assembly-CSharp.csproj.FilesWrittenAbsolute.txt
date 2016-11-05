@@ -1,0 +1,57 @@
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Poiy/Documents/CS5892/Project2/obj/Debug/Assembly-CSharp.dll
+/Users/Poiy/Documents/CS5892/Project2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/UnityEngine.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/UnityEditor.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Google.ProtocolBuffers.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Poiy/Documents/CS5892/Project2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/obj/Debug/Assembly-CSharp.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/UnityEngine.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/UnityEditor.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Google.ProtocolBuffers.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Poiy/Documents/CS5892/Project2VivePort/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/obj/Debug/Assembly-CSharp.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/UnityEngine.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/UnityEditor.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Google.ProtocolBuffers.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Poiy/Documents/CS5892/VR Item Toss (Vive)/Temp/bin/Debug/Assembly-CSharp.dll
